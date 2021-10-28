@@ -6,4 +6,6 @@ Just move the two files to "C:\Program Files (x86)\Canon\CanoScan Toolbox Ver5.0
 CSTBRES.dll only in german.
 
 <img src="https://github.com/xVenti/canoscan-toolbox-update/blob/main/images/canoscan-1.png" width="576">
+
+
 <img src="https://github.com/xVenti/canoscan-toolbox-update/blob/main/images/canoscan-2.png" width="688">
